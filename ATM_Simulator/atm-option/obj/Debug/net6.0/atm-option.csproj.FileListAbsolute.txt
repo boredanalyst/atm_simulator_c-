@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.AssemblyInfo.cs
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\atm-option\atm-option\bin\Debug\net6.0\atm-option.exe
+C:\Users\USer\source\repos\atm-option\atm-option\bin\Debug\net6.0\atm-option.deps.json
+C:\Users\USer\source\repos\atm-option\atm-option\bin\Debug\net6.0\atm-option.runtimeconfig.json
+C:\Users\USer\source\repos\atm-option\atm-option\bin\Debug\net6.0\atm-option.dll
+C:\Users\USer\source\repos\atm-option\atm-option\bin\Debug\net6.0\atm-option.pdb
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.dll
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\refint\atm-option.dll
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.pdb
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\atm-option.genruntimeconfig.cache
+C:\Users\USer\source\repos\atm-option\atm-option\obj\Debug\net6.0\ref\atm-option.dll
